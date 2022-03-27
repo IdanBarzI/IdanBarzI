@@ -8,7 +8,6 @@
 
 
 - 🌱 I’m currently learning NodeJs
-- 👯 I’m looking to collaborate on Flask
 - 💬 Ask me about anything 😄
 - 📫 How to reach me: [LinkedIn- @IdanBarzilay](https://www.linkedin.com/in/idanbarz/)
 
